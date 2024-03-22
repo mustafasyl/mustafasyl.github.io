@@ -21,7 +21,7 @@ repository               : "https://mustafasyl.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "msayli.jpg"
   name             : "Dr Mustafa Sayli"
   pronouns         : "(he/his)"  # example: "he/his"  
   bio              : "Data Scientist"
