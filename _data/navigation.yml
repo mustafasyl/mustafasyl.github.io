@@ -4,7 +4,8 @@ main:
     url: /portfolio/
 
   - title: "Publications"
-    url: /publications/
+    # url: /publications/
+    url: "https://scholar.google.com.my/citations?user=reS1hMoAAAAJ&hl=en"
 
   - title: "Talks"
     url: /talks/    
