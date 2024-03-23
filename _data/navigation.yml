@@ -7,11 +7,11 @@ main:
     # url: /publications/
     url: "https://scholar.google.com.my/citations?user=reS1hMoAAAAJ&hl=en"
 
-  - title: "Talks"
+  - title: "Talks & Outreach"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
         
   #- title: "Blog Posts"
   #  url: /year-archive/
