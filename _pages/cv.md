@@ -36,9 +36,9 @@ Work experience
   * Teaching Duties: Leading seminar and lab sessions, and marking assigmants. 
 
   
-Skills
+Tech skills
 ======
-* Python, Matlab, Julia, SQL
+* Python, Matlab, Julia, SQL, Tableau, Office Suits, XPP, Minitab, R
 
 <!-- Publications
 ======
