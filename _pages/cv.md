@@ -16,31 +16,31 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Associate Lecturer, Nottingham Trent University, 2020 - Current
+  * Teaching area: Economics and data analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Fellow, University of Nottingham, 2021 - 2023 
+  * Research Project: White Matter Networks 
+  * Line Manager: Prof Stephen Coombes
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postgraduate Research and Demonstrater, , Nottingham Trent University, 2017 - 2021
+  * Research Project: Piecewise linear dynamical systems: From nodes to networks
+  * Teaching Duties: Leading seminar and lab sessions, and marking assigmants. 
+
+
+* Academic visitor, University of Nottingham, 2016 - 2017
+  * Research Project: Dynamical behaviours of neuron models
+
+* Research and Teaching Assistant, Middle East Technical University, 2011 - 2016 
+  * Research Project: Artificial neuroal networks (ANNs) and Dynamical Systems 
+  * Teaching Duties: Leading seminar and lab sessions, and marking assigmants. 
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Matlab, Julia, SQL
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -60,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
