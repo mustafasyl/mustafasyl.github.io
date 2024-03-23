@@ -23,7 +23,7 @@ Work experience
   * Research Project: White Matter Networks 
   * Line Manager: Prof Stephen Coombes
 
-* Postgraduate Research and Demonstrater, , Nottingham Trent University, 2017 - 2021
+* Postgraduate Researcher and Demonstrater, University of Nottingham, 2017 - 2021
   * Research Project: Piecewise linear dynamical systems: From nodes to networks
   * Teaching Duties: Leading seminar and lab sessions, and marking assigmants. 
 
